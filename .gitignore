@@ -10,3 +10,5 @@
 !patched_files/**
 !nginx
 !nginx/*
+!install
+!install/*

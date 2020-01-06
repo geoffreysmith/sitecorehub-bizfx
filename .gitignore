@@ -2,8 +2,11 @@
 !.dockerignore
 !.gitignore
 !Dockerfile
+!.dockerignore
 !LICENSE
 !README.md
 !Sitecore.Commerce.WDP.2019.07-4.0.165.zip.PLACEHOLDER
-!patched_files/*
+!patched_files
+!patched_files/**
+!nginx
 !nginx/*

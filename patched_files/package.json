@@ -58,7 +58,7 @@
   },
   "devDependencies": {
     "@angular-devkit/core": "0.0.27",
-    "@angular/cli": "1.5.6",
+    "@angular/cli": "15.0.0",
     "@angular/compiler-cli": "4.4.6",
     "@angular/language-service": "4.4.6",
     "@compodoc/compodoc": "1.0.9",
